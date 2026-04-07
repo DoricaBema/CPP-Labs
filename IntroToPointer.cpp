@@ -16,7 +16,7 @@ int main() {
 
     cout << "pPointer: " << pPointer << endl;
 
-    cout << "Address of pPointer" << &pPointer << endl;
+    cout << "Address of pPointer: " << &pPointer << endl;
 
     return 0;
 }
